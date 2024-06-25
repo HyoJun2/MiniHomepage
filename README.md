@@ -14,3 +14,5 @@
 [이미지]http://www.ygweekly.com/news/photo/201802/3888_4305_4338.jpg
 [이미지]https://www.zooseyo.com/dog_sale/photo_free/202301/1673752262_82203900.jpeg
 
+
+*코드 수정 실습 진행 중 입니다*
