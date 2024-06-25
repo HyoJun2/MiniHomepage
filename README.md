@@ -1,39 +1,14 @@
 # 효준의 미니 홈페이지
 
-# 대제목
-## 중제목
-### 소제목
+## 안녕하세요! 양효준입니다!
 
-**굵게 표시할 텍스트**
+**- 취미: 산책, 수영, 게임, 누워서 멍때리기**
+*~~~멍때리는것을 제일 좋아합니다..~~~*
+**- MBTI: ISFP**
+**- 혈액형: B**
+**- 좋아하는 것: 귀여운 것, 웃긴 것, 맛있는 것**
 
-*기울일 텍스트*
-
-1. 하나
-2. 둘
-3. 셋
-
-- 토끼
-- 강아지
-- 고양이
-
-코드
-`print('hello world')`
-
-코드 블록
-``` python
-a = 3
-b = 5
-print(a + b)
-```
-
-구분선
----
-구분선
-
-테스트 ~~~취소선 텍스트~~~ 테스트
-
-[구글](http://google.com)
-[네이버](http://naver.com)
-
-![이미지가 없을 때 표시할 텍스트](data:image/png;base64,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)
+[이미지]https://cdn.salgoonews.com/news/photo/202309/34581_143562_3839.jpg
+[이미지]http://www.ygweekly.com/news/photo/201802/3888_4305_4338.jpg
+[이미지]https://www.zooseyo.com/dog_sale/photo_free/202301/1673752262_82203900.jpeg
 
