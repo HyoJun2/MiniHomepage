@@ -16,6 +16,9 @@
 ## 스타일 구성
 - stlye.md 추가
 
+## 사이드바 추가
+- sidebar.md 추가
+
 ## 구매 페이지 추가
 - purchase.md 추가
 
